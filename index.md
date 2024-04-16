@@ -39,7 +39,11 @@ Do you have a tutorial for Voyant you would like to adapt to *Dialogica*? Would 
 
     Download: [Walkthrough 5: Exploring A Text](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
-6. Salient Words: How to use the Visualizations, Corpus Terms and Document Terms tools to see what words stand out.
+6. Following a Theme Through a Text: After exploring a corpus to indentify possible themes, this walkthrough shows how you can follow them through a text.
+
+    Download: [Walkthrough 6: Following a Theme](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
+
+7. Salient Words: How to use the Visualizations, Corpus Terms and Document Terms tools to see what words stand out.
 
     Download: [Walkthrough 7: Salient Words](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
